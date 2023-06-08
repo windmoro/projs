@@ -1,3 +1,4 @@
+
 /* Ev tapşırığı:
 
 1) Bütün reklam şəkillərini silin (saytın sağ tərəfində)
@@ -52,3 +53,13 @@ kinolar.innerHTML  += `
 
 `
 });
+
+
+
+
+
+
+
+
+
+

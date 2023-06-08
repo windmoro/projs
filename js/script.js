@@ -30,7 +30,7 @@ reklam.forEach(item => {
 });
 
 
-janr.textContent = 'DRAMA';
+janr.textContent = 'Morroun DRAMA WEPSITESI';
 
 bgimage.style.backgroundimage = 'url(../img/bg.jpg)'
 
